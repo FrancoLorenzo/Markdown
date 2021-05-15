@@ -109,7 +109,7 @@ This is a fourth **_bold and italic text_**.
 ----------------------------------------
 
 ## Images
-![Markdown icon](\Images\markdown-icon.png?raw=true)
+![Markdown icon](https://github.com/FrancoLorenzo/Markdown_tutorial/blob/main/Images/markdown-icon.png)
 
 ----------------------------------------
 
