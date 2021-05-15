@@ -60,6 +60,11 @@ This is a fourth **_bold and italic text_**.
 
 ----------------------------------------
 
+## Strikethrough
+This is an example of ~~strikethrough text~~.
+
+----------------------------------------
+
 ## Blockquotes
 >To create a blockquote, add a > in front of a paragraph.
 
@@ -157,4 +162,23 @@ This is an example of a Json code block:
 ----------------------------------------
 
 ## Heading IDs
-[Heading IDs](#What-is-Markdown?)
+This is an example of [heading IDs](#What-is-Markdown?).
+
+----------------------------------------
+
+## Task list
+- [x] To do item #1.
+- [ ] To do item #2.
+- [ ] To do item #3.
+
+
+----------------------------------------
+
+## Emoji
+There are two ways to add emoji to Markdown files: copy and paste the emoji into your Markdown-formatted text, or type emoji shortcodes.
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+
+----------------------------------------
