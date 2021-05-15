@@ -7,6 +7,8 @@
 
 [//]: <> (This is also a comment. Available resource: https://www.markdownguide.org/basic-syntax/)
 
+> **Note on how to use this tutorial file:** Edit this document to learn more about the different Markdown syntaxis in the comments.
+
 # What is Markdown?
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in 2004, Markdown is now one of the world’s most popular markup languages.
@@ -16,8 +18,7 @@ Markdown is a fast and easy way to take notes, create content for a website, and
 
 For more information check this [link](https://www.markdownguide.org/getting-started/).
 
-## How to learn from this tutorial?
-Edit this document to learn about the different Markdown syntaxis.
+
 
 ----------------------------------------
 
@@ -107,4 +108,4 @@ This is a fourth **_bold and italic text_**.
 ----------------------------------------
 
 ## Code blocks
-`To denote a word or phrase as code, enclose it in backticks (`).`
+`To denote a word or phrase as code, enclose it in backticks (`).
