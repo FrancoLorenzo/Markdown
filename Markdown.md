@@ -127,8 +127,34 @@ To add a table, use three or more hyphens (---) to create each column’s header
 | Item 2      | Item 4      |
 
 
-### Table header alignment
+### Table text alignment
 | Column 1    | Column 2    | Column 3    |
 | :---        |    :----:   |        ---: |
 | Item 1      | Item 3      | Item 5      |
 | Item 2      | Item 4      | Item 6      |
+
+----------------------------------------
+
+## Fenced Code Blocks
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+## Syntax Highlighting
+This is an example of a Json code block:
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+----------------------------------------
+
+## Heading IDs
+[Heading IDs](#What-is-Markdown?)
