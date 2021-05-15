@@ -1,15 +1,9 @@
----
-
-# Markdown markup language tutorial.
-
----
-
-
-[//]: <> (This is also a comment. Available resource: https://www.markdownguide.org/basic-syntax/)
+[//]: <> (This is a comment. Look for more information here: https://www.markdownguide.org/basic-syntax/)
 
 > **Note on how to use this tutorial file:** Edit this document to learn more about the different Markdown syntaxis in the comments.
 
-# What is Markdown?
+# Markdown markup language tutorial. 
+## What is Markdown?
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by [John Gruber](https://daringfireball.net/projects/markdown/) in 2004, Markdown is now one of the world’s most popular markup languages.
 
