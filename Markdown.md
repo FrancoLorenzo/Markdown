@@ -102,4 +102,6 @@ This is a fourth **_bold and italic text_**.
 ----------------------------------------
 
 ## Code blocks
-``To denote a word or phrase as code, enclose it in backticks (`).``
+`<html>This is a code example</html>`
+
+``To denote a word or phrase as code, enclose it in double backticks (`).``
